@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU6B8gq7_LO1Vlvvv1jIjpWtR1Z0fHif91oWGr9H-SQfAf-1ogM2QTsC93v4jPeFOwbADNZrJHXWZGL7zLAxLo5hXhYkc32R4CuTkZYw72ldm9nMtImjh8BE_C2pI8YnF-rg38Kg7nr-27XVK2LNEMmiLHl5nacXoP1w1qHxppAPuIGCVW7SmGaiHUbQ/s0/synth-sunset-lake-162023.png);
+    background-size: cover;
+    margin: 5px;
+  }
+
+*{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Titulo{
+  width: 400px;
+  font-size: 25px;
+}
+
+.Formulario{
+  width: 400px;
+  padding: 50px;
+  margin: auto;
+  background-color: rgb(24, 24, 24);
+  border-radius: 40px;
+  border-width: 5px;
+  border-color: rgb(255, 145, 0) rgb(228, 84, 168);
+  border-style:double;
+}
+.St{
+  padding: 5px;
+  border-radius: 15px;
+  color: gray;
+  width: 400px;
+  background-color: rgb(255, 228, 207);
+  border: 5px white solid;
+  border-style: double;
+  margin-bottom: 10px;
+}
+
+.inicio{
+  width: 420px;
+  background-color: black;
+  color: whitesmoke;
+  border-color: rgb(255, 145, 0) rgb(228, 84, 168);
+  border-radius: 10px;
+  border-width: 5px;
+  border-style: double;
+}
+
+.subir{
+  width: 420px;
+  background-color: black;
+  color: whitesmoke;
+  border-color: rgb(255, 145, 0) rgb(228, 84, 168);
+  border-radius: 10px;
+  border-width: 5px;
+  border-style: double;
+}
+
