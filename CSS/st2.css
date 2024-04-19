@@ -15,7 +15,7 @@ body{
 }
 
 .Formulario{
-  width: 400px;
+  width: auto;
   padding: 50px;
   margin: auto;
   background-color: rgb(24, 24, 24);
